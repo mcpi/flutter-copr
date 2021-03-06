@@ -1,11 +1,11 @@
 Name:           flutter
-Version:        1.2.1
+Version:        2.0.1
 Release:        1%{?dist}
 Summary:        Google's Flutter mobile app development framework.
 
 License:        BSD
 URL:            https://flutter.dev/
-Source0:        https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v%{version}-stable.tar.xz
+Source0:        https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_%{version}-stable.tar.xz
 
 %description
 The Flutter mobile app development framework.
