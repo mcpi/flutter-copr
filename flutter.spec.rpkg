@@ -1,7 +1,7 @@
 Name:           flutter
 Version:        2.0.1
 Release:        1%{?dist}
-Summary:        Google's Flutter mobile app development framework.
+Summary:        Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop.
 
 License:        BSD
 URL:            https://flutter.dev/
